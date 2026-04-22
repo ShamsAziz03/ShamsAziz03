@@ -1,6 +1,6 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi%20there%20👋&fontSize=90&animation=fadeIn&fontAlignY=38)
 
-# 👋 Hello, I'm Shams Abd Al-Aziz
+Hello, I'm Shams Abd Al-Aziz
 I am Comuter Engineering Student at final Year. I am intersting in Front End development.
 ---
 
@@ -23,7 +23,7 @@ I am Comuter Engineering Student at final Year. I am intersting in Front End dev
 </p>
 
 
-### 📂 Top Projects
+###  🚀 Featured Project
 - **[ServLink](https://github.com/ShamsAziz03/ServLink)** - Full-Stack Mobile & Web Application (SW Graduation Project)
 A mobile-first service marketplace built with React Native, Node.js, and MySQL across
 three user roles (user, admin and service provider). Integrated Groq SDK with Llama 4 to
