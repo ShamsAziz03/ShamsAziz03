@@ -1,6 +1,6 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi%20there%20👋&fontSize=90&animation=fadeIn&fontAlignY=38)
 
-# 💻 Full-Stack Web Developer
+# 💻 Full-Stack Developer and Software Engineer
  
 **Computer Engineer** | **An-Najah National University Graduate**
  
