@@ -71,4 +71,8 @@ if you want to check demo: https://drive.google.com/drive/folders/1s_GM9Vlp9CZtC
 
 
 ### 🤝 Connect with me
-[LinkedIn](www.linkedin.com/in/shams-abd-al-aziz-82159b368) | [Email](shamsabdalaziz03@gmail.com)
+
+#### Email:  shamsabdalaziz03@gmail.com
+
+
+#### LinkedIn: www.linkedin.com/in/shams-abd-al-aziz-82159b368
